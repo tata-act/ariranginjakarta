@@ -16,7 +16,7 @@ Peta utama memakai pembagian blok dan lorong perkiraan. Versi tanpa garis blok: 
   - Filter hari (26 / 27 / 29 Des) mengganti titik terang sesuai hari data yang ada. Layout sama untuk ketiga hari.
   - Arahkan kursor (atau ketuk di HP) ke titik untuk melihat zona, row dan nomor kursi.
 - **Estimasi kursi per zona.** Klik atau arahkan ke seat untuk lebih detail.
-- **Rincian per row.** Isinya estimasi nomor kursi terkecil dan terbesar, jumlah kursi, jumlah data, dasar estimasi, dan nomor kursi yang ada di data sensus.
+- **Rincian per row.** Isinya estimasi nomor kursi terkecil dan terbesar, jumlah kursi, dasar estimasi, dan jumlah seat yang tercatat di data sensus.
 
 ## Ringkasan estimasi
 
@@ -25,8 +25,8 @@ Peta utama memakai pembagian blok dan lorong perkiraan. Versi tanpa garis blok: 
 | VIP A / VIP C | A–U | ±2.504 per zona |
 | VIP B / VIP D | A–AJ | ±2.400 per zona |
 | Platinum Floor A / C | P–AC (sayap di P–U, full V–AC) | ±1.542 per zona |
-| Platinum Floor B / D | AH–AZ (sayap di AH–AJ, full AK–AZ) | ±2.200 per zona |
-| **Total floor** | | **±17.292** |
+| Platinum Floor B / D | AF–AZ (sayap di AF–AJ, full AK–AZ) | ±2.224 per zona |
+| **Total floor** | | **±17.340** |
 
 Angka di halaman adalah acuan terbaru. Tabel ini hanya ringkasan pada saat pertama rilis.
 
@@ -42,7 +42,7 @@ Bentuknya dicocokkan dengan data per row layout ARIRANG Bangkok. Di Bangkok, sis
 ## Asumsi belum pasti
 - Row A paling dekat stage, seat 1 paling kiri (belum tentu row paling depan secara keseluruhan).
 - Platinum Floor A/C mengisi sayap kiri-kanan VIP mulai row P, lalu penuh dari row V–AC.
-- Sayap Platinum Floor B/D (AH–AJ) hanya didukung sedikit data (perlu data lebih banyak).
+- Sayap Platinum Floor B/D (AF–AJ) hanya didukung sedikit data (perlu data lebih banyak).
 - Posisi dan ukuran platform extended stage adalah ilustrasi, bukan layout asli.
 - Row terakhir Platinum (AC dan AZ) adalah row terakhir yang ada dari sensus, belum tentu row terakhir sebenarnya.
 
